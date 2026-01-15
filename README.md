@@ -25,6 +25,11 @@ Overall, trimming underperforming products and addressing low-profit regions wou
 
 Customer/Region Analysis PDF:
 Page 3: Returns Analysis
+The West region leads all regions in returns, with an average return rate of 11.99%. In 2014, the West’s return rate was 10.38%, rising to 13.20% in 2017. This has resulted in $19,660 of lost profit from returned sales, while the other regions remain between $0 and $3,000 in lost profit. The return rate for other regions hovers around 3%, highlighting a significant discrepancy.
+
+Across categories, Office Supplies have a return rate of 6.25%, while Furniture and Technology average around 8%.
+
+The primary focus should be on the West region to understand why its return rate is nearly four times higher than other regions. Once the regional issue is addressed, a more granular analysis by product and category can be conducted to further optimize returns and minimize lost profit.
 
 Returns Analysis Analysis PDF:
 
