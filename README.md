@@ -12,7 +12,7 @@ Sales activity is primarily concentrated in the East and West regions, with the 
 Finally, seasonality does not appear to have a significant impact on product performance, indicating relatively consistent demand throughout the year.
 Conclusion
 
-Executive Overview PDF: https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Executive_Overview.pdf 
+Executive Overview PDF: [View Executive Overview] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Executive_Overview.pdf 
 
 Page 2: Customer/Region Analysis
 Within the second dashboard, the Furniture category continues to underperform in profitability. Only 64.34% of all customer orders in Furniture are profitable, a trend that persists consistently from 2014 through 2017. In comparison, Office Supplies and Technology maintain profitability rates between 82% and 87% across all years.
@@ -23,7 +23,7 @@ Looking at products, 83.62% of all products across categories are profitable. Wi
 
 Overall, trimming underperforming products and addressing low-profit regions would make the business more efficient and support future growth initiatives.
 
-Customer/Region Analysis PDF: https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Product_Customer_Peformance.pdf
+Customer/Region Analysis PDF:[View Customer/Region Analysis] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Product_Customer_Peformance.pdf
 
 Page 3: Returns Analysis
 The West region leads all regions in returns, with an average return rate of 11.99%. In 2014, the West’s return rate was 10.38%, rising to 13.20% in 2017. This has resulted in $19,660 of lost profit from returned sales, while the other regions remain between $0 and $3,000 in lost profit. The return rate for other regions hovers around 3%, highlighting a significant discrepancy.
@@ -32,6 +32,7 @@ Across categories, Office Supplies have a return rate of 6.25%, while Furniture 
 
 The primary focus should be on the West region to understand why its return rate is nearly four times higher than other regions. Once the regional issue is addressed, a more granular analysis by product and category can be conducted to further optimize returns and minimize lost profit.
 
-Returns Analysis Analysis PDF: https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Returns_Analysis.pdf
+Returns Analysis PDF: [View Returns Analysis] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Returns_Analysis.pdf
 
-Full PowerBI Dashboard: https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Sales_Analysis_JordanFoleyReis.pbix 
+Full PowerBI Dashboard: [Download Power BI Dashboard] (https://github.com/jordanfoleyreis/PowerBI_Project/raw/main/Sales_Analysis_JordanFoleyReis.pbix)
+
