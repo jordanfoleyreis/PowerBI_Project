@@ -1,9 +1,12 @@
-Overview of Financial Analysis Power BI Dashboard
+Northstar 
+Retail Performance Report
 
-Overview of Data:
+Background:
 - What years were tracked
 
-Page 1: Executive Summary 
+Northstar Super Store Metrics
+
+Executive Summary 
 Year-over-year sales have increased by 31.8%, indicating strong overall revenue growth. Despite this increase, profit margins have remained stable since 2014 at approximately 10.68%, suggesting that growth has not translated into proportional margin expansion.
 
 Profitability varies significantly by product category. The Furniture segment underperforms with a 2.49% profit margin, while Office Supplies (17.04%) and Technology (17.4%) deliver substantially higher returns. This disparity highlights an opportunity to prioritize investment and growth strategies in the two most profitable categories while reassessing the role and cost structure of Furniture.
@@ -14,7 +17,8 @@ Finally, seasonality does not appear to have a significant impact on product per
 
 Executive Overview PDF: [View Executive Overview] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Executive_Overview.pdf 
 
-Page 2: Customer/Region Analysis
+Data set Structure and ERD (Entity relationship diagram)
+Customer/Region Analysis
 Within the second dashboard, the Furniture category continues to underperform in profitability. Only 64.34% of all customer orders in Furniture are profitable, a trend that persists consistently from 2014 through 2017. In comparison, Office Supplies and Technology maintain profitability rates between 82% and 87% across all years.
 
 Profitability also varies significantly by region. Within Furniture, the Central region has only 32.51% of orders profitable, resulting in an overall loss of $3,000, while the East region achieves 66.6%, and the West and South regions reach 81% and 76.3%, respectively. This indicates that regional specialization could help improve overall profit margins.
@@ -25,7 +29,7 @@ Overall, trimming underperforming products and addressing low-profit regions wou
 
 Customer/Region Analysis PDF:[View Customer/Region Analysis] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Product_Customer_Peformance.pdf
 
-Page 3: Returns Analysis
+Returns Analysis
 The West region leads all regions in returns, with an average return rate of 11.99%. In 2014, the West’s return rate was 10.38%, rising to 13.20% in 2017. This has resulted in $19,660 of lost profit from returned sales, while the other regions remain between $0 and $3,000 in lost profit. The return rate for other regions hovers around 3%, highlighting a significant discrepancy.
 
 Across categories, Office Supplies have a return rate of 6.25%, while Furniture and Technology average around 8%.
