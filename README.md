@@ -1,8 +1,9 @@
 Overview of Financial Analysis Power BI Dashboard
-Context of Data:
 
-Page 1: Executive Overview 
-  Executive Summary
+Overview of Data:
+- What years were tracked
+
+Page 1: Executive Summary 
 Year-over-year sales have increased by 31.8%, indicating strong overall revenue growth. Despite this increase, profit margins have remained stable since 2014 at approximately 10.68%, suggesting that growth has not translated into proportional margin expansion.
 
 Profitability varies significantly by product category. The Furniture segment underperforms with a 2.49% profit margin, while Office Supplies (17.04%) and Technology (17.4%) deliver substantially higher returns. This disparity highlights an opportunity to prioritize investment and growth strategies in the two most profitable categories while reassessing the role and cost structure of Furniture.
@@ -10,7 +11,6 @@ Profitability varies significantly by product category. The Furniture segment un
 Sales activity is primarily concentrated in the East and West regions, with the Central and South regions contributing comparatively lower revenue. Additional market and regional data is required to determine whether this gap is driven by demand, distribution, or market penetration limitations.
 
 Finally, seasonality does not appear to have a significant impact on product performance, indicating relatively consistent demand throughout the year.
-Conclusion
 
 Executive Overview PDF: [View Executive Overview] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Executive_Overview.pdf 
 
