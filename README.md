@@ -19,7 +19,6 @@ From a regional perspective, sales are primarily concentrated in the East and We
 
 At the product category level, profitability varies considerably. The Furniture segment underperforms with a 2.49% profit margin, whereas Office Supplies (17.04%) and Technology (17.4%) generate substantially higher returns. This disparity highlights a clear opportunity to prioritize investment in higher-margin categories while reassessing pricing, cost structure, or strategic positioning within the Furniture segment.
 
-Order Analysis
 ![Dashboard](OrderAnalysis.png)
 Total orders follow the same upward trend highlighted in the executive summary, with year-over-year growth across all regions. By 2017, the West leads with 538 orders, followed by the East (470), Central (406), and South (273), indicating stronger demand concentration in the West and East.
 
@@ -32,8 +31,7 @@ Overall, while order values have declined across all categories, margin performa
 
 In terms of product mix, the overall distribution has remained relatively consistent year-over-year. However, regional differences are evident. Notably, the Central region has experienced growth in the Office Supplies category, while other regions have maintained a more stable product mix. This suggests localized demand shifts that may warrant region-specific strategies.
 
-Returns Analysis
-![Dashboard](images/dashboard.png)
+![Dashboard](ReturnsAnalysis.png)
 The West region leads all regions in returns, with an average return rate of 11.99%. In 2014, the West’s return rate was 10.38%, rising to 13.20% in 2017. This has resulted in $19,660 of lost profit from returned sales, while the other regions remain between $0 and $3,000 in lost profit. The return rate for other regions hovers around 3%, highlighting a significant discrepancy.
 
 Across categories, Office Supplies have a return rate of 6.25%, while Furniture and Technology average around 8%.
@@ -43,7 +41,7 @@ The primary focus should be on the West region to understand why its return rate
 Returns Analysis PDF: [View Returns Analysis] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Returns_Analysis.pdf
 
 Product Analysis
-![Dashboard](images/dashboard.png)
+![Dashboard](ProductAnalysis.png)
 
 Full PowerBI Dashboard: [Download Power BI Dashboard] (https://github.com/jordanfoleyreis/PowerBI_Project/raw/main/Sales_Analysis_JordanFoleyReis.pbix)
 
