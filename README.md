@@ -1,4 +1,4 @@
-Northstar 
+Northstar Super Store
 Retail Performance Report
 
 Background:
@@ -10,8 +10,9 @@ By combining sales, returns, and cost data, this dataset supports a comprehensiv
 
 Northstar Super Store Metrics
 
+
+![Dashboard](ExecutiveOverview.png)
 Executive Summary 
-![Dashboard](Executive Overview.png)
 Totals sales sits at $2.3 Million with a total profit of $286,000. Total orders have increased alot from 969 in 2014 to 1,687 in 2017. There looks to be increased sales around September to Decemeber indicating seasonality. This trend follows for all regions excluding the south.  Year-over-year sales have increased by 15.67%, indicating strong overall revenue growth. Despite this increase, profit margins have remained stable since 2014 at approximately 12.47%, suggesting that growth has not translated into proportional margin expansion. This trend can also be seen in order count totals as well. Sales activity is primarily concentrated in the East and West regions, with the Central and South regions contributing comparatively lower revenue. Additional market and regional data is required to determine whether this gap is driven by demand, distribution, or market penetration limitations. Profitability varies significantly by product category. The Furniture segment underperforms with a 2.49% profit margin, while Office Supplies (17.04%) and Technology (17.4%) deliver substantially higher returns. This disparity highlights an opportunity to prioritize investment and growth strategies in the two most profitable categories while reassessing the role and cost structure of Furniture.
 
 
