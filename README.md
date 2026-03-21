@@ -12,12 +12,13 @@ Northstar Super Store Metrics
 
 
 ![Dashboard](ExecutiveOverview.png)
-Executive Summary 
-Totals sales sits at $2.3 Million with a total profit of $286,000. Total orders have increased alot from 969 in 2014 to 1,687 in 2017. There looks to be increased sales around September to Decemeber indicating seasonality. This trend follows for all regions excluding the south.  Year-over-year sales have increased by 15.67%, indicating strong overall revenue growth. Despite this increase, profit margins have remained stable since 2014 at approximately 12.47%, suggesting that growth has not translated into proportional margin expansion. This trend can also be seen in order count totals as well. Sales activity is primarily concentrated in the East and West regions, with the Central and South regions contributing comparatively lower revenue. Additional market and regional data is required to determine whether this gap is driven by demand, distribution, or market penetration limitations. Profitability varies significantly by product category. The Furniture segment underperforms with a 2.49% profit margin, while Office Supplies (17.04%) and Technology (17.4%) deliver substantially higher returns. This disparity highlights an opportunity to prioritize investment and growth strategies in the two most profitable categories while reassessing the role and cost structure of Furniture.
+Total sales amount to $2.3 million, generating a total profit of $286,000, resulting in an overall profit margin of approximately 12.47%. Order volume has grown significantly over time, increasing from 969 orders in 2014 to 1,687 in 2017, reflecting strong expansion in business activity.
 
+Sales exhibit clear seasonality, with consistent increases from September through December across most regions, except for the South. Year-over-year sales have grown by 15.67%, indicating solid revenue momentum. However, profit margins have remained relatively stable since 2014, suggesting that increased sales volume has not translated into improved profitability. A similar pattern is observed in order growth, where higher volume has not significantly enhanced efficiency or margins.
 
+From a regional perspective, sales are primarily concentrated in the East and West, while the Central and South regions lag behind. Additional data would be needed to determine whether this gap is driven by differences in demand, distribution strategy, or market penetration.
 
-Executive Overview PDF: [View Executive Overview] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Executive_Overview.pdf 
+At the product category level, profitability varies considerably. The Furniture segment underperforms with a 2.49% profit margin, whereas Office Supplies (17.04%) and Technology (17.4%) generate substantially higher returns. This disparity highlights a clear opportunity to prioritize investment in higher-margin categories while reassessing pricing, cost structure, or strategic positioning within the Furniture segment.
 
 Customer/Region Analysis
 ![Dashboard](images/dashboard.png)
