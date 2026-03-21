@@ -38,23 +38,26 @@ Across categories, Office Supplies have a return rate of 6.25%, while Furniture 
 
 The primary focus should be on the West region to understand why its return rate is nearly four times higher than other regions. Once the regional issue is addressed, a more granular analysis by product and category can be conducted to further optimize returns and minimize lost profit.
 
-Returns Analysis PDF: [View Returns Analysis] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Returns_Analysis.pdf
+![Dashboard](ProductPerformance.png)
+Product mix at the category level is relatively consistent across regions; however, significant variation emerges at the subcategory level, revealing key profitability challenges.
 
-Product Analysis
-![Dashboard](ProductAnalysis.png)
+Across all regions, the Furnishings subcategory typically generates an average profit margin of approximately 14%. However, in the Central region, this drops sharply to -25%, indicating severe regional inefficiencies. Similarly, Tables and Bookcases underperform across all regions, with average profit margins of -8.5% and -3.0%, respectively. The Supplies subcategory also contributes negatively, with an average margin of -2.5%.
 
-Full PowerBI Dashboard: [Download Power BI Dashboard] (https://github.com/jordanfoleyreis/PowerBI_Project/raw/main/Sales_Analysis_JordanFoleyReis.pbix)
+While these subcategories represent the most consistent underperformers, profitability can vary significantly by region, suggesting that local factors such as pricing, cost structure, or demand dynamics play a critical role.
 
-Other 
-Customer/Region Analysis
-![Dashboard](images/dashboard.png)
-Within the second dashboard, the Furniture category continues to underperform in profitability. Only 64.34% of all customer orders in Furniture are profitable, a trend that persists consistently from 2014 through 2017. In comparison, Office Supplies and Technology maintain profitability rates between 82% and 87% across all years.
+Within the Technology category, performance is generally strong; however, the Machines subcategory significantly underperforms, with a profit margin of just 1.79% compared to the overall category average of 17.4%. This indicates that even within high-performing categories, specific product segments may be diluting overall profitability.
 
-Profitability also varies significantly by region. Within Furniture, the Central region has only 32.51% of orders profitable, resulting in an overall loss of $3,000, while the East region achieves 66.6%, and the West and South regions reach 81% and 76.3%, respectively. This indicates that regional specialization could help improve overall profit margins.
+Overall, the analysis highlights a clear opportunity to improve operational efficiency and profitability by:
 
-Looking at products, 83.62% of all products across categories are profitable. Within Furniture, this drops to 67.63%, while Office Supplies and Technology maintain 85–88% profitability across all years.
+1. Reducing or eliminating consistently unprofitable subcategories
+2. Addressing region-specific inefficiencies, particularly in the Central region
+3. Prioritizing high-margin products and categories
 
-Overall, trimming underperforming products and addressing low-profit regions would make the business more efficient and support future growth initiatives.
+Focusing on these areas would streamline the product portfolio and better position the business to support sustainable growth.
 
-Customer/Region Analysis PDF:[View Customer/Region Analysis] https://github.com/jordanfoleyreis/PowerBI_Project/blob/main/Product_Customer_Peformance.pdf
+Full PowerBI Dashboard: [Download Power BI Dashboard] (https://github.com/jordanfoleyreis/PowerBI_Project/raw/main/NorthStarSuperstoreDashboard.pbix)
+
+
+
+
 
